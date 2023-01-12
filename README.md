@@ -1,6 +1,5 @@
 <h2> 👋🏾 Hi </h2>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <p><em>Sr. Serverless Developer at <a href="https://www.serverlessguru.com/">Serverless Guru, LLC</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
