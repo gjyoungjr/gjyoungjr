@@ -6,7 +6,7 @@
 </a>
 
 
-<p><em>Serverless Developer at <a href="https://www.serverlessguru.com/">Serverless Guru, LLC</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Aspiring ML Engineer 🤞<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 </em></p>
 
