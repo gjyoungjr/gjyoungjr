@@ -4,6 +4,9 @@
 </a>
 
 
+- Learning & researching AI 
+- Building GraphixAi 
+
 <p><em>Aspiring ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 </em></p>
