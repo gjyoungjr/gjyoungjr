@@ -6,11 +6,13 @@
 </a>
 
 
+bullish about climate tech, building in public and the future of AI.
 
-## 📚 Learning 
-- Machine Learning & Artifical Intelligence 
-- Deep Learning 
-- Natural Language Processing
+currently building a tool that 10x the speed of creating ESG reports. go check it out [here](https://www.goperennial.app/).
+
+## 📚 Learnings & Research
+- Deep Learning & Neural Networks 
+- NLP
 
 
 
