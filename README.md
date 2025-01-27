@@ -6,7 +6,7 @@
 </a>
 
 
-bullish about climate tech, building in public and the future of AI.
+passionate AI engineer who's bullish about climate tech, building in public and the future of AI.
 
 currently building a tool that 10x the speed of creating ESG reports. go check it out [here](https://www.goperennial.app/).
 
